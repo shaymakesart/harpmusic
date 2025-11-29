@@ -111,7 +111,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: katlatze/harpmusic # <gh-username>/<repo>
+    repo: shaymakesart/harpmusic # <gh-username>/<repo>
     repo_id: R_kgDOOeIU2A
     category: Announcements
     category_id: DIC_kwDOOeIU2M4CpZHr
